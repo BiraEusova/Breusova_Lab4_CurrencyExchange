@@ -1,0 +1,10 @@
+C:\Users\irabr\source\repos\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe.config
+C:\Users\irabr\source\repos\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe
+C:\Users\irabr\source\repos\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.pdb
+C:\Users\irabr\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csprojAssemblyReference.cache
+C:\Users\irabr\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.Form1.resources
+C:\Users\irabr\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.Properties.Resources.resources
+C:\Users\irabr\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.GenerateResource.cache
+C:\Users\irabr\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.CoreCompileInputs.cache
+C:\Users\irabr\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.exe
+C:\Users\irabr\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.pdb
